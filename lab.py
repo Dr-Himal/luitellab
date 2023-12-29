@@ -39,16 +39,15 @@ with col2:
 
 with col1:
     st.title("Luitel Lab")
-    st.markdown("### A team of Biotechnologist from Nepal")
+    st.markdown("### A team of Molecular Biologist from Nepal")
     st.write("Centre for Biotechnology, Agriculture and Forestry University")
+    st.write("Bharatpur-15, 44209, Chitwan, Nepal")
     st.write("📫", "hluitel@afu.edu.np")
 
 
 # CONTENTS
 homepage_intro_1 = """
-Welcome to Luitel Lab, a cutting-edge biotechnology research facility located in Nepal.
-The laboratory was established in 2010 and since then, we have been working towards improving animal and plant health through biotechnology.
-Our lab is dedicated to advancing the field of biotechnology and improving human life through innovative scientific research.
+Welcome to Luitel Lab, a cutting-edge molecular research facility located in Nepal. We are working on different facets of biological research. We strongly believe in young brains and a collaborative approach. Our lab is dedicated to advancing the field of biotechnology and improving human life through innovative scientific research.
 """
 
 homepage_intro_2 = """
