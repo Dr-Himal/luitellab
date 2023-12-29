@@ -204,7 +204,7 @@ with st.container():
     with tab1:
        # st.header("Home")
        with st.container():
-           st.title("Hi ! Welcome to Luitel Lab :pray: ")
+           st.title("Welcome to Luitel Lab :pray: ")
            # st.write("[Learn More >](https://www.google.com/)")
            st.write(homepage_intro_1)
            with st.container():
