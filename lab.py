@@ -4,7 +4,7 @@ from streamlit_lottie import st_lottie
 from PIL import Image
 
 # basic page configuration
-st.set_page_config(page_title='Luitel Lab', page_icon=":Himal_Passport_ photo:", layout="wide")
+st.set_page_config(page_title='Luitel Lab', page_icon="Himal_Passport_photo", layout="wide")
 
 def load_lottieurl(url):
     r = requests.get(url)
