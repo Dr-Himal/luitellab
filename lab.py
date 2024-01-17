@@ -35,7 +35,7 @@ lab_member_2 = Image.open("images/sample_image2.jpg")
 # --- HEADER SECTION ---
 col1, col2 = st.columns((2,1))
 with col2:
-    st.image(Himal_Passport_photo, width=230)
+    st.image(Himal_Passport_photo)
 
 with col1:
     st.title("Luitel Lab")
