@@ -44,7 +44,7 @@ with col1:
     st.write("Bharatpur-15, 44209, Chitwan, Nepal")
     st.write("Phone:  +9779855051156 (Cell), +97756592405 (Off)")
     st.write("Fax: +977-56-526014")
-    st.write("https://scholar.google.com/citations?user=PJcQIW0AAAAJ&hl=en")
+    st.write("Google Scholar: https://scholar.google.com/citations?user=PJcQIW0AAAAJ&hl=en")
     st.write("ORCID: https://orcid.org/0000-0003-3844-0469")
     st.write("📫", "hluitel@afu.edu.np")
 
