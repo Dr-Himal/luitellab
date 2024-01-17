@@ -266,9 +266,9 @@ with st.container():
            with image_column:
                st.image(lab_member_1)
            with text_column:
-               st.subheader("Mr. ABC")
+               st.subheader("Mr. Chet Raj Pathak")
                st.write("""
-               ABC is a researcher at XYZ lab since 2019. He focus on biotechnology and developing innovative medicines.
+              Mr. Pathak is a PhD scholar. .... is a researcher at XYZ lab since 2019. He focus on biotechnology and developing innovative medicines.
                His expertise and dedication have resulted in numerous breakthroughs in the field, positioning him as a leader in the industry.
                """)
                st.markdown("[Know more about him](https://www.google.com/)")
