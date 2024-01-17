@@ -22,7 +22,7 @@ local_css("style/style.css")
 
 # LOAD_ASSETS
 
-afu_image = Image.open("images/AFU.jpg")
+afu_image = Image.open("images/Himal_Passport_photo.jpg.jpg")
 microscope = "https://cdn.pixabay.com/photo/2014/04/03/11/08/microscope-311859__340.png"
 lottie1 = load_lottieurl("https://assets10.lottiefiles.com/packages/lf20_nkc7twjj.json")
 lottie2 = load_lottieurl("https://assets6.lottiefiles.com/packages/lf20_wghjmogb.json")
